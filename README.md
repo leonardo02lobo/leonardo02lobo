@@ -24,7 +24,7 @@
 
 - **Languages**:
     
-    ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,cs,java,typescript,spring)
+    ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,cs,java,typescript)
 
 <br>   
     
@@ -36,7 +36,7 @@
 
 - **Back-End Development**:
 
-    ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,dotnet)
+    ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,dotnet,spring)
     
 <br>
 
