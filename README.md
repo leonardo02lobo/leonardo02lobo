@@ -2,9 +2,6 @@
 <h1 align="center"><b>Hi , I'm Leonardo Lobo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <br>
-
-
-
 	
 ## **About me**
 
@@ -12,11 +9,9 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- A passionate Self-taught Backend developer
+- Currently learning Web Development by Self and cybersecurity
+- Personal website [link](https://porfoliowebleonardolobo.netlify.app/)
 
 <br><br>
 
