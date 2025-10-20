@@ -24,7 +24,7 @@
 
 - **Languages**:
     
-    ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,cs,java,typescript)
+    ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,cs,java,typescript,spring)
 
 <br>   
     
